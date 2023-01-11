@@ -18,3 +18,5 @@ const testButton = document.querySelector(".header__menu-button");
 testButton.addEventListener("click", handleTestButtonClick);
 
 // event handler
+
+function handleTestButtonClick() {}
