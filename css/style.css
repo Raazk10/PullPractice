@@ -1,0 +1,8 @@
+.header__navigation {
+	background: pink;
+	display: none;
+}
+
+.header__navigation--visible {
+	display: block;
+}
